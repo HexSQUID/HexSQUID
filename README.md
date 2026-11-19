@@ -1,4 +1,4 @@
-#HexSQUID
+🦑 HexSQUID
 
 ### Electronics • Embedded Systems • PCB Design • 3D Printing
 
