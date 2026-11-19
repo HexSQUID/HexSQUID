@@ -1,16 +1,24 @@
-## Hi there 👋
+#HexSQUID
 
-<!--
-**HexSQUID/HexSQUID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics • Embedded Systems • PCB Design • 3D Printing
 
-Here are some ideas to get you started:
+**Turning ideas into functional hardware.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to **HexSQUID** — an independent engineering and maker brand focused on developing practical, creative hardware and software solutions.
+
+### 🔧 What we do
+
+- **Electronics & PCB Design** — Circuits, sensors, and custom hardware
+- **Embedded Development** — ESP32, microcontrollers, and firmware
+- **3D Design & Printing** — Functional enclosures, prototypes, and accessories
+- **Automation & DIY** — Smart solutions and engineering experiments
+
+### 🚀 Projects
+
+**FID Studio** — RFID tools and firmware for 3D printing and filament management.
+
+More projects coming soon!
+
+---
+
+*HexSQUID — Designed to Build.*
