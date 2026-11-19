@@ -1,4 +1,6 @@
-🦑 HexSQUID
+<p align="center">
+  <img src="logo.png" width="450" alt="Logo_Final">
+</p>
 
 ### Electronics • Embedded Systems • PCB Design • 3D Printing
 
